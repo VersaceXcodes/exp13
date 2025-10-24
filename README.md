@@ -1,2 +1,3 @@
-# exp13
-Project exp13 generated.
+app generated from cofounder/boilerplate
+
+instructions here on how to start api and frontend , whether in parallel or separately
